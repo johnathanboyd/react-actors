@@ -5,3 +5,5 @@ function Header (){
         <h1> React Actors </h1>
     )
 }
+
+export default Header;
