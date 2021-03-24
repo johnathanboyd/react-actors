@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.foot {
+  background-color: black;
+  color: #ffffff;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .App-logo {
