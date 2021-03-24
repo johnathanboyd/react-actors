@@ -2,7 +2,9 @@ import React from 'react';
 
 function Header (){
     return (
-        <h1> React Actors </h1>
+        <header>
+            <h1> React Actors </h1>
+        </header>
     )
 }
 
